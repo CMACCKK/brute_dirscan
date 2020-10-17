@@ -1,0 +1,4 @@
+requests
+pool
+argparse
+subprocess
